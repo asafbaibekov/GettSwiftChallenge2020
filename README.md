@@ -18,7 +18,7 @@ Roles:
 * Remove any code from the tests.
 * Add a fake XCTAssert, an early-return, or other means to "short circuit" the test execution.
 
-```
+```swift
 import XCTest
 
 final class GettSwiftTests: XCTestCase {
